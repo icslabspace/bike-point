@@ -9,4 +9,5 @@
                  [yada "1.1.44"]
                  [hiccup/hiccup "1.0.5"]
                  [byte-streams "0.2.2"]
-                 [org.clojure/data.json "0.2.6"]])
+                 [org.clojure/data.json "0.2.6"]]
+  :main bike-point.main)
