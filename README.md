@@ -19,7 +19,7 @@ To stop it just hit Ctrl-C
 
 After the server starts visit your favorite browser and enter [localhost:3000/Leyton](http://localhost:3000/Leyton)
 
-If all goes well you should be asked for a username and password (use the ones bellow):
+If all goes well you should be asked for a username and password (use the ones below):
 
 `username=icslab`
 
