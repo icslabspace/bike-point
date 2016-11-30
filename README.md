@@ -7,17 +7,17 @@ Demo web-page showing 5 nearest BikePoints:
 * with basic authentication
 
 showing a minimalistic table with BikePoint
-locations, distances from Leyton and number of available bikes.
+locations, distances from Leyton and number of available bikes
 
 ## Usage
 
 `git clone https://github.com/icslabspace/bike-point`
 
-To start the web server call `lein run` from the project's root.
+To start the web server call `lein run` from the project's root
 
-To stop it just hit Ctrl-C.
+To stop it just hit Ctrl-C
 
-After the server starts visit your favorite browser and enter [localhost:3000/Leyton](localhost:3000/Leyton).
+After the server starts visit your favorite browser and enter [localhost:3000/Leyton](http://localhost:3000/Leyton)
 
 If all goes well you should be asked for a username and password (use the ones bellow):
 
